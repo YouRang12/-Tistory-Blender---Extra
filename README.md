@@ -20,3 +20,5 @@
 [Blender]06.한전 마스코트 캐릭터 만들기 Part1 - 몸통, 다리 => (https://goo.gl/nWtR79)
 
 [Blender]07.한전 마스코트 캐릭터 만들기 Part2 - 얼굴 => (https://goo.gl/GSoKfT)
+
+[Blender]08.한전 마스코트 캐릭터 만들기 Part3 - 뼈 => (https://goo.gl/SaUeSW)
